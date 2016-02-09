@@ -2,3 +2,10 @@
 name = "physics"
 version = "0.1.0"
 authors = ["Ben Eills <ben@beneills.com>"]
+
+[dependencies]
+piston_window = "0.8.0"
+# gfx = "*"
+# gfx_device_gl = "*"
+# piston = "*"
+# piston2d-graphics = "*"
